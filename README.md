@@ -1,4 +1,3 @@
-# popo
 /programming-for-kids/  
 │── index.html          (Главная страница)  
 │── about.html          (О проекте)  
